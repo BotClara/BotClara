@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Hi%2C%20I'm%20YOUR_NAME&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=YOUR%20TITLE%20%E2%80%A2%20e.g.%20Web%20Developer&descSize=18&descAlignY=58" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Hi%2C%20I'm%20BotClara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=YOUR%20TITLE%20%E2%80%A2%20e.g.%20Web%20Developer&descSize=18&descAlignY=58" alt="banner" />
 </p>
 
 <!-- Typing animation -->
@@ -23,10 +23,10 @@ I'm a **YOUR_ROLE** based in **YOUR_CITY, COUNTRY**. I enjoy turning ideas into 
 
 | | |
 |---|---|
-| 🔭 **Working on** | YOUR_PROJECT |
-| 🌱 **Learning** | YOUR_TOPIC |
-| 💬 **Ask me about** | YOUR_SKILLS |
-| ⚡ **Fun fact** | YOUR_FUN_FACT |
+| 🔭 **Working on** | Bot |
+| 🌱 **Learning** | Bot |
+| 💬 **Ask me about** | Bot |
+| ⚡ **Fun fact** | Bot |
 
 ## 🛠️ Tech Stack
 
