@@ -1,116 +1,95 @@
-<h1 align="center">Hi, I'm BotClara 🌿</h1>
+<p align="center">
+  <img src="uci.jpg" alt="uci" width="100%" />
+</p>
+
+<h1 align="center">&gt; BOTCLARA_</h1>
 
 <p align="center">
-  YOUR_ROLE based in YOUR_CITY, COUNTRY.<br/>
-  I like building small, thoughtful things that are simple to use and nice to look at.
+  <code>[ SYSTEM ONLINE ]</code> &nbsp; <code>[ MODE: DEVELOPER ]</code> &nbsp; <code>[ STATUS: MEOW ]</code>
 </p>
 
 <p align="center">
-  <a href="#about" title="A bit about me">About</a> ·
-  <a href="#tools" title="What I work with">Tools</a> ·
-  <a href="#projects" title="Things I've made">Projects</a> ·
-  <a href="#say-hi" title="Leave me a message">Say hi</a>
+  <a href="#about" title="About me">[ ABOUT ]</a> ·
+  <a href="#skills" title="What I code with">[ SKILLS ]</a> ·
+  <a href="#projects" title="Things I've built">[ PROJECTS ]</a> ·
+  <a href="#contact" title="Say hi">[ CONTACT ]</a>
 </p>
 
 ---
 
 ## About
 
-<details>
-<summary><b>🌱 What I'm working on</b></summary>
-<br/>
+```text
+C:\> whoami
+BotClara
 
-YOUR_PROJECT. Write a sentence or two about what it is and why you're building it.
-
-</details>
-
-<details>
-<summary><b>📖 What I'm learning</b></summary>
-<br/>
-
-YOUR_TOPIC. Tell people what got you curious about it.
-
-</details>
+C:\> cat about.txt
+Developer who likes retro vibes, games, and clean code.
+Currently building: YOUR_CURRENT_PROJECT
+Currently learning: YOUR_TOPIC
+```
 
 <details>
-<summary><b>💬 Ask me about</b></summary>
+<summary><b>[ + ] fun_facts.txt</b></summary>
 <br/>
 
-- YOUR_SKILL_ONE
-- YOUR_SKILL_TWO
-- YOUR_SKILL_THREE
-
-</details>
-
-<details>
-<summary><b>✨ A few random facts</b></summary>
-<br/>
-
+```text
 - Fun fact one
 - Fun fact two
 - Fun fact three
+```
 
 </details>
 
-## Tools
+## Skills
 
-<details open>
-<summary><b>Click to fold or unfold</b></summary>
-<br/>
+```text
+C:\> run skills.exe
 
-| Area | What I use |
-|---|---|
-| Languages | `HTML` `CSS` `JavaScript` `Python` |
-| Frameworks | `React` `Node.js` `Tailwind` |
-| Workflow | `Git` `VS Code` |
-| Design | `Figma` `Canva` |
+ JavaScript  [##########]
+ Python      [########--]
+ Java        [#######---]
+ HTML        [##########]
+ CSS         [#########-]
+```
 
-</details>
+<sub>Edit the bars to match your real level.</sub>
 
 ## Projects
 
-<details>
-<summary><b>Project One</b>: one short line about what it does</summary>
+<details open>
+<summary><b>[ ✔ ] ZOMBIE GAME</b>: finished</summary>
 <br/>
 
-What it is, who it's for, and what you learned.
-**Tech:** `JavaScript` `React`
-[View on GitHub →](https://github.com/YOUR_USERNAME/PROJECT_ONE "Open the repository")
+```text
+STATUS : COMPLETE
+GENRE  : Zombie game
+TECH   : YOUR_TECH (e.g. Java / JavaScript)
+```
+
+Write 1–2 sentences about the game: how it plays, what you're proud of, what you learned.
+
+[ ▶ VIEW ON GITHUB ](https://github.com/YOUR_USERNAME/YOUR_ZOMBIE_GAME_REPO "Open the repository")
 
 </details>
 
-<details>
-<summary><b>Project Two</b>: one short line about what it does</summary>
-<br/>
+More in my [repositories](https://github.com/YOUR_USERNAME?tab=repositories "See everything").
 
-What it is, who it's for, and what you learned.
-**Tech:** `Python`
-[View on GitHub →](https://github.com/YOUR_USERNAME/PROJECT_TWO "Open the repository")
+## Contact
 
-</details>
+```text
+C:\> connect --all
+```
 
-<details>
-<summary><b>Project Three</b>: one short line about what it does</summary>
-<br/>
+- 📸 [Instagram: @aslrov1](https://www.instagram.com/aslrov1/ "Open Instagram")
+- ✉️ [YOUR_EMAIL](mailto:YOUR_EMAIL "Send an email")
 
-What it is, who it's for, and what you learned.
-**Tech:** `HTML` `CSS`
-[View on GitHub →](https://github.com/YOUR_USERNAME/PROJECT_THREE "Open the repository")
+**Leave a message** (opens a pre-filled note on GitHub):
 
-</details>
-
-More on my [repositories page](https://github.com/YOUR_USERNAME?tab=repositories "See everything").
-
-## Say hi
-
-Pick one, it opens a pre-filled message on GitHub:
-
-- [👋 Just saying hi](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Hi%20BotClara&body=Hi!%20I%20found%20your%20profile%20and%20wanted%20to%20say%20hello. "Opens a new issue")
-- [🤝 Let's collaborate](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Collaboration&body=Hi!%20I'd%20love%20to%20work%20on%20something%20together.%20Here's%20my%20idea%3A "Opens a new issue")
-- [💡 Suggest a project idea](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Project%20idea&body=Here's%20an%20idea%20you%20might%20like%3A "Opens a new issue")
-
-Or reach me directly: [Email](mailto:YOUR_EMAIL) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Instagram](https://instagram.com/YOUR_INSTAGRAM)
+- [👋 Say hi](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Hi%20BotClara&body=Hi!%20I%20found%20your%20profile%20and%20wanted%20to%20say%20hello. "Opens a new issue")
+- [🤝 Let's collaborate](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Collaboration&body=Hi!%20I'd%20love%20to%20work%20on%20something%20together. "Opens a new issue")
+- [🎮 Game feedback](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Game%20feedback&body=I%20tried%20your%20zombie%20game%20and%20here%20is%20what%20I%20think%3A "Opens a new issue")
 
 ---
 
-<p align="center"><sub>Still growing, one commit at a time. 🌸</sub></p>
+<p align="center"><code>C:\&gt; exit</code> &nbsp;·&nbsp; <sub>thanks for visiting. meow, meow.</sub></p>
