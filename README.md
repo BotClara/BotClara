@@ -19,79 +19,58 @@
 
 ## About
 
-```text
-C:\> whoami
-BotClara
+Halo, aku BotClara.
 
-C:\> type about.txt
-suka main game + bikin game sendiri.
-lebih seneng code yang rapih daripada yang ribet.
-lagi sibuk: YOUR_CURRENT_PROJECT
-lagi belajar: YOUR_TOPIC
-```
+Suka main game, terus iseng bikin game sendiri. Lebih suka yang rapih dan gampang dibaca daripada yang ribet. Kalau lagi coding biasanya malam-malam sambil dengerin musik.
+
+Lagi sibuk bikin: **YOUR_CURRENT_PROJECT**  
+Lagi belajar: **YOUR_TOPIC**
 
 <p align="center">
-  <img src="ozi.gif" alt="ozi" width="280" />
+  <img src="ozi.gif" alt="ozi" width="300" />
 </p>
 
 <details>
-<summary><b>[ + ] fun_facts.txt</b></summary>
+<summary>hal-hal random</summary>
 <br/>
 
-```text
-- kadang nge-debug sambil dengerin musik
-- lebih suka malam buat coding
-- zombie game itu project favorit sejauh ini
-```
+- Kadang nge-debug sampe lupa waktu
+- Zombie game itu project yang paling aku banggakan sejauh ini
+- Lebih nyaman coding sendirian daripada rame-rame
 
 </details>
 
 ## Skills
 
 ```text
-C:\> skills
-
- JavaScript  [##########]  sering dipake
- Python      [########--]  masih sering dipakai
- Java        [#######---]  bisa, tapi jarang
- HTML        [##########]  basic banget
- CSS         [#########-]  udah lumayan
+JavaScript   ██████████   sering banget dipake
+Python       ████████░░   masih sering
+Java         ███████░░░   bisa, tapi jarang
+HTML         ██████████   basic
+CSS          █████████░   udah lumayan
 ```
 
 ## Projects
 
-<details open>
-<summary><b>[ ✔ ] ZOMBIE GAME</b> — selesai</summary>
-<br/>
+### Zombie Game
+Selesai.
 
-```text
-STATUS : COMPLETE
-GENRE  : Zombie
-TECH   : YOUR_TECH
-```
-
-Game zombie sederhana. Yang aku banggakan adalah [tulis bagian yang kamu banggakan, misalnya sistem tembakan atau AI musuhnya]. Dari project ini aku belajar [tulis apa yang kamu pelajari].
+Game zombie sederhana. Yang aku paling banggakan dari project ini adalah [tulis di sini bagian yang kamu banggakan, misalnya sistem tembakannya atau cara musuhnya bergerak]. Dari sini aku belajar [tulis apa yang kamu pelajari].
 
 [ ▶ Lihat di GitHub ](https://github.com/YOUR_USERNAME/YOUR_ZOMBIE_GAME_REPO)
 
-</details>
-
-Project lain bisa dilihat di [repositories](https://github.com/YOUR_USERNAME?tab=repositories).
+Project lain ada di [repositories](https://github.com/YOUR_USERNAME?tab=repositories).
 
 ## Contact
-
-```text
-C:\> connect
-```
 
 - 📸 [Instagram: @aslrov1](https://www.instagram.com/aslrov1/)
 - ✉️ [YOUR_EMAIL](mailto:YOUR_EMAIL)
 
-Mau ngobrol atau kasih feedback? Bisa lewat issue:
+Mau ngobrol atau kasih feedback game? Bisa langsung buka issue:
 
-- [👋 Halo](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Halo%20BotClara&body=Halo!%20Aku%20liat%20profilmu%20dan%20pengen%20say%20hi.)
-- [🤝 Mau collab](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Collab&body=Halo!%20Aku%20pengen%20bikin%20project%20bareng.)
-- [🎮 Feedback game](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Feedback%20Zombie%20Game&body=Aku%20udah%20coba%20game%20zombienya,%20ini%20pendapatku%3A)
+- [Halo](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Halo&body=Halo%20BotClara!)
+- [Mau collab](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Collab&body=Halo,%20aku%20pengen%20bikin%20sesuatu%20bareng.)
+- [Feedback Zombie Game](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Feedback%20Zombie%20Game&body=Aku%20udah%20coba%20gamenya,%20ini%20pendapatku%3A)
 
 ---
 
