@@ -23,10 +23,11 @@
 C:\> whoami
 BotClara
 
-C:\> cat about.txt
-Developer who likes retro vibes, games, and clean code.
-Currently building: YOUR_CURRENT_PROJECT
-Currently learning: YOUR_TOPIC
+C:\> type about.txt
+suka main game + bikin game sendiri.
+lebih seneng code yang rapih daripada yang ribet.
+lagi sibuk: YOUR_CURRENT_PROJECT
+lagi belajar: YOUR_TOPIC
 ```
 
 <p align="center">
@@ -38,9 +39,9 @@ Currently learning: YOUR_TOPIC
 <br/>
 
 ```text
-- Fun fact one
-- Fun fact two
-- Fun fact three
+- kadang nge-debug sambil dengerin musik
+- lebih suka malam buat coding
+- zombie game itu project favorit sejauh ini
 ```
 
 </details>
@@ -48,51 +49,49 @@ Currently learning: YOUR_TOPIC
 ## Skills
 
 ```text
-C:\> run skills.exe
+C:\> skills
 
- JavaScript  [##########]
- Python      [########--]
- Java        [#######---]
- HTML        [##########]
- CSS         [#########-]
+ JavaScript  [##########]  sering dipake
+ Python      [########--]  masih sering dipakai
+ Java        [#######---]  bisa, tapi jarang
+ HTML        [##########]  basic banget
+ CSS         [#########-]  udah lumayan
 ```
-
-<sub>Edit the bars to match your real level.</sub>
 
 ## Projects
 
 <details open>
-<summary><b>[ ✔ ] ZOMBIE GAME</b>: finished</summary>
+<summary><b>[ ✔ ] ZOMBIE GAME</b> — selesai</summary>
 <br/>
 
 ```text
 STATUS : COMPLETE
-GENRE  : Zombie game
-TECH   : YOUR_TECH (e.g. Java / JavaScript)
+GENRE  : Zombie
+TECH   : YOUR_TECH
 ```
 
-Write 1–2 sentences about the game: how it plays, what you're proud of, what you learned.
+Game zombie sederhana. Yang aku banggakan adalah [tulis bagian yang kamu banggakan, misalnya sistem tembakan atau AI musuhnya]. Dari project ini aku belajar [tulis apa yang kamu pelajari].
 
-[ ▶ VIEW ON GITHUB ](https://github.com/YOUR_USERNAME/YOUR_ZOMBIE_GAME_REPO)
+[ ▶ Lihat di GitHub ](https://github.com/YOUR_USERNAME/YOUR_ZOMBIE_GAME_REPO)
 
 </details>
 
-More in my [repositories](https://github.com/YOUR_USERNAME?tab=repositories).
+Project lain bisa dilihat di [repositories](https://github.com/YOUR_USERNAME?tab=repositories).
 
 ## Contact
 
 ```text
-C:\> connect --all
+C:\> connect
 ```
 
 - 📸 [Instagram: @aslrov1](https://www.instagram.com/aslrov1/)
 - ✉️ [YOUR_EMAIL](mailto:YOUR_EMAIL)
 
-**Leave a message** (opens a pre-filled note on GitHub):
+Mau ngobrol atau kasih feedback? Bisa lewat issue:
 
-- [👋 Say hi](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Hi%20BotClara&body=Hi!%20I%20found%20your%20profile%20and%20wanted%20to%20say%20hello.)
-- [🤝 Let's collaborate](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Collaboration&body=Hi!%20I'd%20love%20to%20work%20on%20something%20together.)
-- [🎮 Game feedback](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Game%20feedback&body=I%20tried%20your%20zombie%20game%20and%20here%20is%20what%20I%20think%3A)
+- [👋 Halo](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Halo%20BotClara&body=Halo!%20Aku%20liat%20profilmu%20dan%20pengen%20say%20hi.)
+- [🤝 Mau collab](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Collab&body=Halo!%20Aku%20pengen%20bikin%20project%20bareng.)
+- [🎮 Feedback game](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Feedback%20Zombie%20Game&body=Aku%20udah%20coba%20game%20zombienya,%20ini%20pendapatku%3A)
 
 ---
 
